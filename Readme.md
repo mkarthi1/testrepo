@@ -1,1 +1,1 @@
-hi
+<head> HI </head>
